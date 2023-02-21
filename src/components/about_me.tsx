@@ -26,7 +26,7 @@ const AboutMe = () => {
               Love programming and obsessed with EVM. Currently doing the <strong>Encode Club Solidity Bootcamp</strong>.
             </Typography>
             <Typography>
-              Also, I have a degree as a <strong>Lawyer</strong> in Argentina.
+              Also, I have a degree as a <strong>Lawyer</strong> in Argentina, where I currently live.
             </Typography>
             <Typography>
               In case you are interested in my profile, <strong>you may reach out to me</strong> via the following email address: <a href="mailto:carrenoluciano@gmail.com">carrenoluciano@gmail.com</a>.

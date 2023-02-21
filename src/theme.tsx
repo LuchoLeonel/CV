@@ -20,18 +20,6 @@ export default createTheme(
     secondary: {
       main: '#1f4668',
     },
-    inverted: {
-      main: '#fafafa',
-      light: '#1f4668',
-      contrastText: '#1f4668',
-      otherContrastText: '#000',
-    },
-    highlight: {
-      main: '#1f4668',
-      light: '#fff',
-      contrastText: '#fff',
-      otherContrastText: '#000',
-    },
   },
   components: {
     MuiCssBaseline: {
@@ -91,13 +79,6 @@ export default createTheme(
         },
       }
     },
-    MuiChip: {
-      styleOverrides: {
-        root: {
-          borderRadius: "4px 0 4px 0",
-        },
-      }
-    },
     MuiButton: {
       styleOverrides: {
         root: {
@@ -113,21 +94,6 @@ export default createTheme(
           '&:hover': {
             borderWidth: "2px",
           },
-        },
-      }
-    },
-    RaListToolbar: {
-      styleOverrides: {
-        root: {
-          marginBottom: "1em",
-          marginTop: "1em",
-        },
-      }
-    },
-    RaFilterForm: {
-      styleOverrides: {
-        root: {
-          marginLeft: "1em",
         },
       }
     },
@@ -164,30 +130,6 @@ export const Head2 = styled("h2")(({ theme }) => ({
 }));
 
 
-declare module '@mui/material/styles' {
-  interface PaletteOptions {
-    highlight?: {
-      main?: string;
-      light?: string;
-      contrastText?: string;
-      otherContrastText?: string;
-    },
-    inverted?: {
-      main?: string;
-      light?: string;
-      contrastText?: string;
-      otherContrastText?: string;
-    };
-  }
-}
-
-declare module '@mui/material/Chip' {
-  interface ChipPropsColorOverrides {
-    highlight: true;
-    inverted: true;
-  }
-}
-
 declare module '@mui/material/Button' {
   interface ButtonPropsColorOverrides {
     highlight: true;
@@ -209,9 +151,3 @@ declare module '@mui/material/IconButton' {
   }
 }
 
-declare module '@mui/material/LinearProgress' {
-  interface LinearProgressPropsColorOverrides {
-    highlight: true;
-    inverted: true;
-  }
-}
