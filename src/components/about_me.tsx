@@ -23,7 +23,7 @@ const AboutMe = () => {
               My goal is to continue forming myself as a <strong>Web3 Developer</strong> into the Ethereum Blockchain and to become a <strong>Smart Contract Security Auditor</strong>.
             </Typography>
             <Typography>
-              Love programming and obsessed with EVM. Currently doing the <strong>Encode Club Solidity Bootcamp</strong>.
+              I Love programming and I'm learning every day about EVM. Currently doing the <strong>Encode Club Solidity Bootcamp</strong>.
             </Typography>
             <Typography>
               Also, I have a degree as a <strong>Lawyer</strong> in Argentina, where I currently live.
