@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c6bcd869.css",
-    "main.js": "/static/js/main.69502164.js",
+    "main.js": "/static/js/main.a2cbe655.js",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
     "static/media/Manrope-ExtraBold.ttf": "/static/media/Manrope-ExtraBold.b0ac9f1b582da5d98892.ttf",
     "static/media/Manrope-Bold.ttf": "/static/media/Manrope-Bold.15c3a2fdedaee1ebf773.ttf",
     "index.html": "/index.html",
     "main.c6bcd869.css.map": "/static/css/main.c6bcd869.css.map",
-    "main.69502164.js.map": "/static/js/main.69502164.js.map"
+    "main.a2cbe655.js.map": "/static/js/main.a2cbe655.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bcd869.css",
-    "static/js/main.69502164.js"
+    "static/js/main.a2cbe655.js"
   ]
 }
