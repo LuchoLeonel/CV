@@ -42,6 +42,16 @@ const Education = () => {
             </Box>
             <Box>
               <Typography>
+                <strong>Staking Dapp:</strong> from Road to Web3, Alchemy University.
+              </Typography>
+              <Typography sx={{mx: 4}}>
+                <DoneIcon sx={{width: 15, height: 15}}/>
+                &nbsp;
+                Challenge completed. <a href="https://github.com/LuchoLeonel/Staking-Dapp" target="_blank" rel="noreferrer">Github Repository</a>
+              </Typography>
+            </Box>
+            <Box>
+              <Typography>
                 <strong>CTF Defi Security Summit Standford:</strong> is a Smart Contract Security Capture the Flag Workshop by Secureum.
               </Typography>
               <Typography sx={{mx: 4}}>
