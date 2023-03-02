@@ -38,6 +38,9 @@ const Experience = () => {
             <Typography sx={{ml: 2}}>
                 -Unit and integration tests for new features.
             </Typography>
+            <Typography>
+                <strong>Constata repository has recently been made open source.</strong> <a href="https://github.com/constata-eu/constata" target="_blank" rel="noreferrer">Github Repository</a>
+            </Typography>
         </CardContent>
       </Card>
     </Container>

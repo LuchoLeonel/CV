@@ -23,10 +23,10 @@ const AboutMe = () => {
               My goal is to continue forming myself as a <strong>Web3 Developer</strong> into the Ethereum Blockchain and to become a <strong>Smart Contract Security Auditor</strong>.
             </Typography>
             <Typography>
-              I love programming and I'm learning every day about EVM. Currently doing the <strong>Encode Club Solidity Bootcamp</strong>.
+              Love programming and learning every day about EVM. Currently doing the <strong>Encode Club Solidity Bootcamp</strong>.
             </Typography>
             <Typography>
-              Also, I have a degree as a <strong>Lawyer</strong> in Argentina, where I currently live.
+              Also, I hold a <strong>Degree in Law</strong> from Argentina, which is currently the country where I reside.
             </Typography>
             <Typography>
               In case you are interested in my profile, <strong>you may reach out to me</strong> via the following email address: <a href="mailto:carrenoluciano@gmail.com">carrenoluciano@gmail.com</a>.
